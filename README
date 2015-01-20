@@ -1,0 +1,6 @@
+Quine cpp - Kevin Nause
+2015-01-20
+
+1) The following source file is built with: g++ quine.cpp -o guine.o
+2) Verify the quine by executing script ./verify.sh
+3) Profit?
